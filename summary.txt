@@ -1,0 +1,2 @@
+CryptoBuddy mimics AI decision-making through multi-layered analysis: 
+it processes natural language using NLP to understand user intent, fetches real-time market data via APIs, applies weighted scoring algorithms combining sustainability and profitability factors, and generates contextual recommendations while incorporating ethical risk assessment—demonstrating pattern recognition, data synthesis, and responsible automated reasoning.
