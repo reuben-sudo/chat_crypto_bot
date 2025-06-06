@@ -40,8 +40,7 @@
 ### Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cryptobuddy.git
-   cd cryptobuddy
+   git clone https://github.com/reuben-sudo/chat_crypto_bot.git
    ```
 
 2. **Install dependencies**
@@ -105,7 +104,7 @@ The chatbot understands various ways of asking:
 CryptoBuddy/
 ├── cryptobuddy.py          # Main chatbot application
 ├── README.md              # This file
-└── requirements.txt       # Python dependencies
+└── summary.txt            # summary
 ```
 
 ### Class Structure
